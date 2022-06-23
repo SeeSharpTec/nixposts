@@ -3,10 +3,59 @@
     <title>nixposts</title>
     <link href="https://seesharptec.github.io/nixposts/feed.xml" rel="self" />
     <link href="https://seesharptec.github.io/nixposts" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-06-23T17:09:16+01:00</updated>
     <author>
         <name>Joaquim Ferreira</name>
     </author>
     <id>https://seesharptec.github.io/nixposts</id>
 
+    <entry>
+        <title>new post</title>
+        <author>
+            <name>Joaquim Ferreira</name>
+        </author>
+        <link href="https://seesharptec.github.io/nixposts/new-post.html"/>
+        <id>https://seesharptec.github.io/nixposts/new-post.html</id>
+
+        <updated>2022-06-23T17:09:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://seesharptec.github.io/nixposts/media/posts/2/JF_03.png" alt="" />
+                     cnvcnvbnvcbnbvm nbvnbvn nbvn bnbvn bvn bvbvnv
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://seesharptec.github.io/nixposts/media/posts/2/JF_03.png" alt="" />
+                <p> cnvcnvbnvcbnbvm</p>
+<p>nbvnbvn</p>
+<p>nbvn</p>
+<p>bnbvn</p>
+<p>bvn</p>
+<p>bvbvnv</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The initial post</title>
+        <author>
+            <name>Joaquim Ferreira</name>
+        </author>
+        <link href="https://seesharptec.github.io/nixposts/the-initial-post.html"/>
+        <id>https://seesharptec.github.io/nixposts/the-initial-post.html</id>
+
+        <updated>2022-06-23T17:08:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://seesharptec.github.io/nixposts/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
+                    This is a post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://seesharptec.github.io/nixposts/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
+                <p>This is a post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
