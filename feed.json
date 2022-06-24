@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "nixposts",
+    "title": "NixPosts",
     "description": "",
     "home_page_url": "https://seesharptec.github.io/nixposts",
     "feed_url": "https://seesharptec.github.io/nixposts/feed.json",
@@ -35,9 +35,10 @@
                 "name": "Joaquim Ferreira"
             },
             "tags": [
+                   "Personal"
             ],
             "date_published": "2022-06-23T16:18:09+01:00",
-            "date_modified": "2022-06-23T17:08:46+01:00"
+            "date_modified": "2022-06-24T10:53:42+01:00"
         }
     ]
 }
