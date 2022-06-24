@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://seesharptec.github.io/nixposts/sitemap.xml
+Sitemap: https://www.nixposts.com/sitemap.xml

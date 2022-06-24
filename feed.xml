@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>NixPosts</title>
-    <link href="https://seesharptec.github.io/nixposts/feed.xml" rel="self" />
-    <link href="https://seesharptec.github.io/nixposts" />
+    <link href="https://www.nixposts.com/feed.xml" rel="self" />
+    <link href="https://www.nixposts.com" />
     <updated>2022-06-24T10:53:42+01:00</updated>
     <author>
         <name>Joaquim Ferreira</name>
     </author>
-    <id>https://seesharptec.github.io/nixposts</id>
+    <id>https://www.nixposts.com</id>
 
     <entry>
         <title>new post</title>
         <author>
             <name>Joaquim Ferreira</name>
         </author>
-        <link href="https://seesharptec.github.io/nixposts/new-post.html"/>
-        <id>https://seesharptec.github.io/nixposts/new-post.html</id>
+        <link href="https://www.nixposts.com/new-post.html"/>
+        <id>https://www.nixposts.com/new-post.html</id>
 
         <updated>2022-06-23T17:09:16+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://seesharptec.github.io/nixposts/media/posts/2/JF_03.png" alt="" />
+                        <img src="https://www.nixposts.com/media/posts/2/JF_03.png" alt="" />
                      cnvcnvbnvcbnbvm nbvnbvn nbvn bnbvn bvn bvbvnv
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://seesharptec.github.io/nixposts/media/posts/2/JF_03.png" alt="" />
+                    <img src="https://www.nixposts.com/media/posts/2/JF_03.png" alt="" />
                 <p> cnvcnvbnvcbnbvm</p>
 <p>nbvnbvn</p>
 <p>nbvn</p>
@@ -41,20 +41,20 @@
         <author>
             <name>Joaquim Ferreira</name>
         </author>
-        <link href="https://seesharptec.github.io/nixposts/the-initial-post.html"/>
-        <id>https://seesharptec.github.io/nixposts/the-initial-post.html</id>
+        <link href="https://www.nixposts.com/the-initial-post.html"/>
+        <id>https://www.nixposts.com/the-initial-post.html</id>
             <category term="Personal"/>
 
         <updated>2022-06-24T10:53:42+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://seesharptec.github.io/nixposts/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
+                        <img src="https://www.nixposts.com/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
                     This is a post
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://seesharptec.github.io/nixposts/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
+                    <img src="https://www.nixposts.com/media/posts/1/bridge-g4a9c21b8c_1920.jpg" alt="" />
                 <p>This is a post</p>
             ]]>
         </content>

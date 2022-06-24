@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "NixPosts",
     "description": "",
-    "home_page_url": "https://seesharptec.github.io/nixposts",
-    "feed_url": "https://seesharptec.github.io/nixposts/feed.json",
+    "home_page_url": "https://www.nixposts.com",
+    "feed_url": "https://www.nixposts.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Joaquim Ferreira"
     },
     "items": [
         {
-            "id": "https://seesharptec.github.io/nixposts/new-post.html",
-            "url": "https://seesharptec.github.io/nixposts/new-post.html",
+            "id": "https://www.nixposts.com/new-post.html",
+            "url": "https://www.nixposts.com/new-post.html",
             "title": "new post",
             "summary": " cnvcnvbnvcbnbvm nbvnbvn nbvn bnbvn bvn bvbvnv",
             "content_html": "<p> cnvcnvbnvcbnbvm</p>\n<p>nbvnbvn</p>\n<p>nbvn</p>\n<p>bnbvn</p>\n<p>bvn</p>\n<p>bvbvnv</p>",
-            "image": "https://seesharptec.github.io/nixposts/media/posts/2/JF_03.png",
+            "image": "https://www.nixposts.com/media/posts/2/JF_03.png",
             "author": {
                 "name": "Joaquim Ferreira"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2022-06-23T17:09:16+01:00"
         },
         {
-            "id": "https://seesharptec.github.io/nixposts/the-initial-post.html",
-            "url": "https://seesharptec.github.io/nixposts/the-initial-post.html",
+            "id": "https://www.nixposts.com/the-initial-post.html",
+            "url": "https://www.nixposts.com/the-initial-post.html",
             "title": "The initial post",
             "summary": "This is a post",
             "content_html": "<p>This is a post</p>",
-            "image": "https://seesharptec.github.io/nixposts/media/posts/1/bridge-g4a9c21b8c_1920.jpg",
+            "image": "https://www.nixposts.com/media/posts/1/bridge-g4a9c21b8c_1920.jpg",
             "author": {
                 "name": "Joaquim Ferreira"
             },
